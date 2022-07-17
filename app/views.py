@@ -22,7 +22,7 @@ def home(request):
         'productos': productos
     }
 
-    return render(request, 'vista\home.html', data)
+    return render(request, 'imc/listar.html', data)
 
 def contact(request):
     data = {
