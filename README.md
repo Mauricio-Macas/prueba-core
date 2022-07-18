@@ -62,7 +62,7 @@ de igual forma como se mencionó el sistema creá un perfil por usuario y esta b
   Panel Usuario:
         - User: admin
         - Password: admin
-        
+### NOTA: En caso de aparecer un error, <anonymosuser> es debido a que el usuario no esta logueado.       
 
 #### REPOSITORIO Y DEPLOYMENTS EN HEROKU
 
