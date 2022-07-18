@@ -66,9 +66,9 @@ de igual forma como se mencionó el sistema creá un perfil por usuario y esta b
 
 #### REPOSITORIO Y DEPLOYMENTS EN HEROKU
 
-Link GitHub: https://github.com/Mauricio-Macas/prueba-core.git
-Link de Panel Admin: https://deploy-core.herokuapp.com/admin/login/?next=/admin/
-Link de Panel Usuario: https://deploy-core.herokuapp.com/
+- Link GitHub: https://github.com/Mauricio-Macas/prueba-core.git
+- Link de Panel Admin: https://deploy-core.herokuapp.com/admin/login/?next=/admin/
+- Link de Panel Usuario: https://deploy-core.herokuapp.com/
 
-Derechos de Autor: Jonathan Mauricio Macas Colem
-Contacto: maomacasj@hotmail.com
+- Derechos de Autor: Jonathan Mauricio Macas Colem
+- Contacto: maomacasj@hotmail.com
