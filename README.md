@@ -21,14 +21,14 @@ Dentro del sistema de usuario se encontrará como plantilla general la opcion de
   - INGRESA ESTATURA
 En caso de querer guardar se activa la casilla de save o simplemente se la desactiva 
 
-Dentro del sistema tambien podra "Ver el Progreso" podremos ver por fechas que el usuario a ingresado su IMC, en base a la busqueda por fechas
+Dentro del sistema tambien podra "Ver el Progreso" FLUJO CORE podremos ver por fechas que el usuario a ingresado su IMC, en base a la busqueda por fechas
 hará automaticamente el calculo en base al peso, es decir arrojará un peso estimado en el cual el usuario esta actualmente.
 
   - VISUALIZAR DATOS DE IMC
   - VISUALIZAR PROMEDIO PESO
   - FILTRAR DATOS POR FECHA DE INICIO Y FECHA FIN
 
-Dentro del sistema podremos ver Selec Ejercicio, donde el usuario mediante la busqueda ya sea por nombre de ejercicio o por lo que quiera,
+Dentro del sistema podremos ver Selec Ejercicio, FLUJO CORE donde el usuario mediante la busqueda ya sea por nombre de ejercicio o por lo que quiera,
 arrojara un resultado de los ejercicios y el tipo al cual pertenece:
 
 ##### EJEMPLO
