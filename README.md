@@ -56,10 +56,10 @@ de igual forma como se mencionó el sistema creá un perfil por usuario y esta b
   
 ### CREDENCIALES PARA INGRESAR PANEL ADMINISTRADOR Y USUARIOS
   
-  Panel Administrador:
+  - Panel Administrador:
         - User: admin
         - Password: admin
-  Panel Usuario:
+  - Panel Usuario:
         - User: admin
         - Password: admin
 ##### NOTA: En caso de aparecer un error, < anonymosuser > es debido a que el usuario no esta logueado.       
